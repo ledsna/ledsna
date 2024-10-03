@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![alt text](https://github.com/ledsna/ledsna/blob/master/Webb 1.jpg?raw=true)
+![alt text](https://github.com/ledsna/ledsna/blob/master/space.jpg?raw=true)
 
 <!--
 **ledsna/ledsna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
