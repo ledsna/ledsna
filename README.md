@@ -1,4 +1,4 @@
-## ![Hi there 👋](https://github.com/ledsna/ledsna/blob/master/space.jpg?raw=true)
+## ![Hi there 👋](https://github.com/ledsna/ledsna/blob/master/space.jpg)
 
 <!--
 **ledsna/ledsna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
