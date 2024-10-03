@@ -1,4 +1,5 @@
-## ![Hi there 👋](https://github.com/user-attachments/assets/a8b8bc2b-42e9-411f-83a6-106259fab7da)
+![](https://github.com/user-attachments/assets/ceda549a-b9a9-42b5-8a0f-103aa219eb44)
+
 
 <!--
 **ledsna/ledsna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
